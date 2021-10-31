@@ -1,0 +1,10 @@
+.subscribe span{
+    margin-right: 25px;
+    color: #b90808;
+}
+.link{
+    text-decoration: none;
+    display: block;
+    color: white;
+    font-size: 18px;
+}
